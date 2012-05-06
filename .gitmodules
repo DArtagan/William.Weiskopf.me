@@ -1,6 +1,6 @@
 [submodule "wp-content/themes/SelfPressed"]
 	path = wp-content/themes/SelfPressed
-	url = git@github.com:DArtagan/SelfPressed
+	url = git@github.com:DArtagan/SelfPressed.git
 [submodule "wp-content/themes/roots"]
 	path = wp-content/themes/roots
 	url = git@github.com:retlehs/roots.git
