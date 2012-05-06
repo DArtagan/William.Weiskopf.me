@@ -1,0 +1,3 @@
+<?php
+  'git submodule update
+?>
